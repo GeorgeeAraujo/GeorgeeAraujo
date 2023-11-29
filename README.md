@@ -6,10 +6,13 @@ No momento, estou desenvolvendo um projeto pessoal: uma ferramenta para auxiliar
 
 📖 Atualmente, eu estou aprendendo: **Vue.js, Node.js, Express.js e MySql.**
 
+⚔️ Você pode acessar o meu site de portfólio <a href="https://portfolio-george-indol.vercel.app/index.html">aqui</a>.
+
 
 ## ☎️ Contato e Redes Sociais
 <a href="https://www.linkedin.com/in/george-alves-de-araujo-35b58919b/"><img src="https://img.shields.io/badge/George%20Alves%20de%20Araujo-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgeorge-alves-de-araujo-35b58919b%2F"></a>
 <img src="https://img.shields.io/badge/george.programacao%40gmail.com-red?logo=gmail&logoColor=white"></a>
+
 
 
 
